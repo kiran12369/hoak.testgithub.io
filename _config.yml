@@ -26,12 +26,11 @@ author:
   # Biographic information
   avatar           : "https://raw.githubusercontent.com/kiran12369/hoak.testgithub.io/refs/heads/master/images/HoaK.jpeg"
   name             : "The HoaK"
-  pronouns         : # example: "she/her"  
+  pronouns         : #  
   bio              : "HoaK - Smart Cross-Boarder commerce solution"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "INDIA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ravikiran12369@outlook.com" 
 
   # Academic websites
   academia         : # URL
