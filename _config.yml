@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/HoaK.jepg"
   name             : "The HoaK"
   pronouns         : # example: "she/her"  
   bio              : "HoaK - Smart Cross-Boarder commerce solution"
