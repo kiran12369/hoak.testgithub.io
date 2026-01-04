@@ -24,7 +24,7 @@ display_author           : true
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/HoaK.jepg"
+  avatar           : "https://raw.githubusercontent.com/kiran12369/hoak.testgithub.io/refs/heads/master/images/HoaK.jpeg"
   name             : "The HoaK"
   pronouns         : # example: "she/her"  
   bio              : "HoaK - Smart Cross-Boarder commerce solution"
