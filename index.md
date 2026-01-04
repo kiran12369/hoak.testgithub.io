@@ -11,7 +11,6 @@ Smart cross-border commerce platform
 Hyderabad ➝ USA
 
 <div class="hero">
-  <h1 class="title">HoaK</h1>
   <p class="tagline">Smart cross-border commerce platform from Hyderabad to USA</p>
 
   <h2 class="coming-soon">COMING SOON</h2>
