@@ -16,4 +16,16 @@ Hyderabad ➝ USA
   </a>
 </p>
 
-<p><em>Coming Soon — Play Store & App Store</em></p>
+<h1 class="coming-soon">COMING SOON</h1>
+
+<style>
+.coming-soon{
+  font-size: 72px;
+  font-weight: 900;
+  text-align: center;
+  margin-top: 40px;
+  letter-spacing: 4px;
+  font-family: "Poppins", Arial, sans-serif;
+  text-shadow: 0px 0px 12px #888;
+}
+</style>
