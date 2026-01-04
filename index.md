@@ -5,7 +5,6 @@ author_profile: true
 sidebar: true
 ---
 
-# HoaK
 
 Smart cross-border commerce platform  
 Hyderabad ➝ USA
